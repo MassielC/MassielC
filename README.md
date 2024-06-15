@@ -1,4 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAGIOnbuQDM/E2SgPqf1mkz-lWEJCHePoA/watch)](https://MassielC.io)
+[![MasterHead](https://drive.google.com/file/d/1Zw7xy5zf1tIWhV6BecwRhKC5KuMP1En5/view?usp=sharing)](https://MassielC.io)
+
 # 💫 Welcome! This is Massiel:
 🔭 Working on positional analysis of ectothermic fish during inflammation<br>🌱 Learning SQL<br>⚡ Bioengineer and cat lover
 
