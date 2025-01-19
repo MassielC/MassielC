@@ -1,7 +1,7 @@
 [![MasterHead](banner.gif)](https://MassielC.io)
 
-# 💫 Welcome! This is Massiel:
-🔭 Working on positional analysis of ectothermic fish during inflammation<br>🌱 Learning SQL<br>⚡ Bioengineer and cat lover
+## 💫 Now I'm...
+🔭 working on positional analysis of ectothermic fish during inflammation<br>🌱 Learning SQL<br>⚡ Bioengineer and cat lover
 
 
 ## 🌐 Socials:
